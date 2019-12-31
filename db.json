@@ -1,14 +1,14 @@
 {
 "data":[
-    {"numberBool":false,"numberInt":528,"taskName":"Car Wash"},
-    {"numberBool":true,"numberInt":236,"taskName":"Car Wash"},
-    {"numberBool":false,"numberInt":941,"taskName":"Car Wash"},
-    {"numberBool":false,"numberInt":124,"taskName":"Car Wash"},
-    {"numberBool":true,"numberInt":766,"taskName":"Car Wash"},
-    {"numberBool":true,"numberInt":31,"taskName":"Car Wash"},
-    {"numberBool":false,"numberInt":138,"taskName":"Car Wash"},
-    {"numberBool":true,"numberInt":540,"taskName":"Car Wash"},
-    {"numberBool":false,"numberInt":435,"taskName":"Car Wash"},
-    {"numberBool":true,"numberInt":97,"taskName":"Car Wash"}
+    {"numberBool":false,"numberInt":528,"taskName":"Go for car wash"},
+    {"numberBool":true,"numberInt":236,"taskName":"Gor for grocery shopping"},
+    {"numberBool":false,"numberInt":941,"taskName":"Go for oil change"},
+    {"numberBool":false,"numberInt":124,"taskName":"Take the dog for a walk"},
+    {"numberBool":true,"numberInt":766,"taskName":"Clean up the house"},
+    {"numberBool":true,"numberInt":31,"taskName":"Go for a run"},
+    {"numberBool":false,"numberInt":138,"taskName":"Hit the gym"},
+    {"numberBool":true,"numberInt":540,"taskName":"Cook Dinner"},
+    {"numberBool":false,"numberInt":435,"taskName":"Start a new book"},
+    {"numberBool":true,"numberInt":97,"taskName":"Go to bed by 11 pm"}
   ]
 }
